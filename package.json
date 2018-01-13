@@ -1,0 +1,11 @@
+{
+  "name": "tache",
+  "version": "0.0.1",
+  "description": "Simple WYSIWYG editor for Markdown",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ComMouse",
+  "license": "MIT"
+}
